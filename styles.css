@@ -1,0 +1,47 @@
+
+ #homepage {
+    background: url(https://i.pinimg.com/736x/b1/2c/7e/b12c7e583a6cb5485b0f48821827083c.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .title {
+    text-align: center;
+    font-family: copperplate;
+    font-size: 30px;
+    padding-top: 15%;
+    font-weight: 700;
+    color: #3a1e10;
+    
+ }
+ #name-text {
+    text-align: center;
+    color: #3a1e10;
+    font-size: 50px;
+    font-family: copperplate;
+    border: solid 5px #3a1e10;
+    background-color: #ead9dd;
+ }
+
+ #codejourneytitle {
+    text-align: center;
+    padding-top: 180px;
+    font-family: copperplate
+ }
+#journeypage {
+    background: url(https://i.pinimg.com/736x/c2/06/13/c20613d8a7001dc54196cb906c05448e.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.partitiontitle {
+    text-align: center;
+    color: #3a1e10;
+}
+#menu-header {
+    font-family: 'copperplate';
+    font-size: 28px;
+    color: #ead9dd;
+    background-color: #3a1e10;
+    border: solid 5px #3a1e10;
+    border-radius: 20px
+
+}
